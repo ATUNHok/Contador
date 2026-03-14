@@ -148,8 +148,7 @@
     <div class="container">
         <h1>⏱️ Contador de Incumplimiento de la Ley 27795</h1>
         <p class="subtitle">El Gobierno Nacional NO cumple con la Ley hace:</p>
-        <p class="start-date">📅 La ley está vigente desde el 21 de octubre de 2025</p>
-
+        
         <div class="time-display">
             <div class="time-unit">
                 <div class="time-value" id="days">0</div>
@@ -164,13 +163,13 @@
                 <div class="time-label">Minutos</div>
             </div>
         </div>
-
+<p class="start-date">📅 La ley está vigente desde el 21 de octubre de 2025</p>
         <div class="result-text" id="resultText">
-            La Universidad Pública no puede esperar más. 🇦🇷
+            La Universidad Pública no puede esperar más.
         </div>
 
         <div class="demand-box">
-            <strong>Desde ATUNH exigimos:</strong><br>
+            <strong>Desde ATUNH exigimos</strong><br>
             El inmediato cumplimiento de la Ley de Financiamiento Universitario<br>
             En defensa de la Educación superior<br>
             Por salarios dignos<br>
